@@ -39,7 +39,7 @@ chmod +x internsctl
 ```
 internsctl --help
 ```
-https://github.com/the-satyajeet/xenonStackLinuxTask/blob/main/screenshots/help.png
+<img src="https://github.com/the-satyajeet/xenonStackLinuxTask/blob/main/screenshots/help.png" alt="project-screenshot" width="400" height="400/">
 
 <p>8. To print the version</p>
 
