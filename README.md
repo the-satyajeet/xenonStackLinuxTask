@@ -81,7 +81,7 @@ internsctl file getinfo --owner /path/to/hello.txt
 internsctl file getinfo --last-modified /path/to/hello.txt
 ```
 
-<img src="https://github.com/the-satyajeet/xenonStackLinuxTask/blob/main/screenshots/advance.png" alt="project-screenshot">
+<img src="https://github.com/the-satyajeet/xenonStackLinuxTask/blob/main/screenshots/advanced.png" alt="project-screenshot">
   
   
 <h2>💻 Built with</h2>
